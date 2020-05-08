@@ -5,7 +5,7 @@
   Angular Cli(To create Angular projects),
   HTML5,
   CSS,
-  BootStrap (Styling Pages),
+  BootStrap (Styling Pages)
 
 # Backend
   Java,
