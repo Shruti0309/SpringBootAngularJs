@@ -1,17 +1,17 @@
 # Todo Management Application using Angular, Spring Boot and Spring Security Frameworks
 
 # Frontend
-  AngularJS
-  Angular Cli(To create Angular projects)
-  HTML5
-  CSS
-  BootStrap (Styling Pages)
+  AngularJS,
+  Angular Cli(To create Angular projects),
+  HTML5,
+  CSS,
+  BootStrap (Styling Pages),
 
 # Backend
-  Java
-  SpringBoot(REST API Framework)
-  Spring Security(Authentication and Authorization - JWT)
-  JPA
+  Java,
+  SpringBoot(REST API Framework),
+  Spring Security(Authentication and Authorization - JWT),
+  JPA,
   InMemomry H2 DB
  
 # Required Tools
